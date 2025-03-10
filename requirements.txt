@@ -1,0 +1,6 @@
+typing
+mlflow
+apache-airflow
+torch
+torchvision
+lightning
